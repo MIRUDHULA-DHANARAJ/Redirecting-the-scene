@@ -84,7 +84,7 @@ public class CubeProgram : MonoBehaviour
 
 ## NEW SCENE AFTER REDIRECTING:
 
-![s3N](https://github.com/MIRUDHULA-DHANARAJ/Redirecting-the-scene/assets/94828147/fb825638-8ae1-43f1-97a5-465110f5bd7a)
+![image](https://github.com/MIRUDHULA-DHANARAJ/Redirecting-the-scene/assets/94828147/0149bddc-0425-4728-ac15-551b45c7e079)
 
 
 ## Result:
